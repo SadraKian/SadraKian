@@ -2,7 +2,7 @@
 <hr>
 <h3 style="color:royalblue">Front-End Student</h3>
 <hr>
-Hi! I'm Mohammad Sadra Kiantash and I'm a Front-End Student.<br>
+Hi! I'm Mohammad Sadra Kiantash and I'm a Front-End Web Developer.<br>
 I have a burning desire for Creating Great looking Websites.<br>
 Currently I'm Learning all I can to grow My self as a Programmer
 <hr>
