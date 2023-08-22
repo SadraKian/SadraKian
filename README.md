@@ -43,7 +43,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SadraKian&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadraKian)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
 
