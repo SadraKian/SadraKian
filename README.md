@@ -1,21 +1,68 @@
-<h1>Mohammad Sadra Kiantash</h1>
-<hr>
-<h3>Front-End Web Developer</h3>
-<hr>
-Hi! I'm Mohammad Sadra Kiantash and I'm a Front-End Web Developer.<br>
-I have a burning desire for Creating Great looking Websites.<br>
-Currently I'm Learning all I can to grow My self as a Programmer
-<hr>
-<section>
-    <h3>Expertise in technologies and fields to collaborate</h3>
-    <img src="https://github.com/SadraKian/PromptLand/assets/128605953/6d86fade-454b-4877-89de-4b1dbe15d2a2" title="HTML" width="40" height="40" /> &nbsp;
-    <img src="https://github.com/SadraKian/PromptLand/assets/128605953/ec6a1a00-b0f7-42ce-9b8f-2ceee55bc0b0" title="CSS" width="40" height="40" /> &nbsp;
-      <img src="https://github.com/SadraKian/PromptLand/assets/128605953/8d537b82-5b08-410c-833d-7383f575e8b1" title="JavaScript" width="40" height="40" />&nbsp;
-     <img src="https://github.com/SadraKian/SadraKian/assets/128605953/1e7b9275-1340-4d8d-b3a9-6a39e542e352" title="TypeScript" width="40" height="40" />&nbsp;
-      <img src="https://github.com/SadraKian/PromptLand/assets/128605953/7eb79375-8587-43ab-84b8-82a0b63a7899" title="React" width="40" height="40" />&nbsp;
-       <img src="https://github.com/SadraKian/PromptLand/assets/128605953/2bd7b0f3-7747-4ed0-8b6b-3acbf0031b9b" title="Next JS" width="40" height="40" />&nbsp;
-        <img src="https://github.com/SadraKian/PromptLand/assets/128605953/b493dc86-491c-4590-9946-3683a26d7ce0" title="TailwindCSS" width="40" height="40" />&nbsp;
-        <img src="https://github.com/SadraKian/PromptLand/assets/128605953/37e833c1-e801-47fd-b69f-603555ebd290" title="Next Auth" width="40" height="40">&nbsp;
-        <img src="https://github.com/SadraKian/PromptLand/assets/128605953/7c276d2d-847d-4ad1-9054-22d1beb63d59" title="Node JS" width="40" height="40">
-  </section>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🌍;+Hello+World!+I'm+Mohammad+Sadra+Kiantash
+        ;" />
+</h1>
+
+<h3 align="center">A passionate Iranian Front-end Web developer</h3>
+
+<br/>
+
+<div align="center">
+
+ 🔥 I have a burning desire for developing and Designing great looking websites 
+ 🌱 I’m currently learning Next JS, React
+ 🖥️ I'm open to contributing and collaborating for any suited opportunity to grow myself in my career
+ 
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:pedro.sadrakiandeveloper@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-sadra-kiantash-092214272/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,javascript,typescript,,html,css,tailwind," /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,,figma,git,vscode,github" />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SadraKian/SadraKian/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.appp/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
