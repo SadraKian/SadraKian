@@ -43,7 +43,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadraKian)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadraKian&layout=donut&theme=tokyonight" alt="Git Hub TopLangs" width="300" height="200" />
 
 <hr/>
 
