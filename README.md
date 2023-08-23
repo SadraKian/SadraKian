@@ -55,7 +55,7 @@
 <br/><br/><br/>
 
 <section>
-    <img align="left" src="https://github.com/SadraKian/SadraKian/assets/128605953/5395ee7c-87c8-4fdf-a229-40a7749b56e9" width="400" height="400" />
+    <img align="left" src="https://github.com/SadraKian/SadraKian/assets/128605953/5395ee7c-87c8-4fdf-a229-40a7749b56e9" width="400" height="450" />
     <ul align="right">
         <li>Software engineer</li>
         <br/>
@@ -65,12 +65,15 @@
         <br/>
         <li>My favorite technologies to work with are Next js, React, and Tailwind</li>
         <br/>
+        <li>I learn fast and I love teamwork and I adopt new work efficiently</li>
+        <br/>
         <li>I'm dedicated to my work and I'm willing to work hard and disciplined  to contribute to the industry</li>
         <br/>
         <li>I'm open to collaborating on projects suited to my skill sets and working on creating new stuff and fixing existing problems </li>
     </ul>
 </section>
-
+<br/>
+<br/><br/><br/>
 <hr/>
 
 <h3 align="center">
