@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=🌍+Hello+World!;+I'm+Mohammad+Sadra+Kiantash;" />
 </h1>
 
-<h3 align="center">A passionate Iranian Front-end Web developer</h3>
+<h3 align="center">A passionate Iranian Front-end Web developer and UI & UX Designer</h3>
 
 <br/>
 
@@ -42,8 +42,13 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+<section>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadraKian&layout=donut&theme=tokyonight" alt="Git Hub TopLangs" width="300" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadraKian&layout=donut&theme=cobalt" alt="Git Hub TopLangs" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=SadraKian&rank_icon=github&theme=dracula" alt="Git Hub TopLangs" />
+
+</section>
 
 <hr/>
 
