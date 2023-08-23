@@ -41,7 +41,27 @@
 <br/>
 <hr/>
 
+<section>
+    <img align="left" src="https://github.com/SadraKian/SadraKian/assets/128605953/5395ee7c-87c8-4fdf-a229-40a7749b56e9" width="400" height="400" />
+    <ul align="right">
+        <li>Software engineer</li>
+        <br/>
+        <li>Front-end Web developer</li>
+        <br/>
+        <li>UI & UX Designer</li>
+        <br/>
+        <li>My favorite technologies to work with are Next js, React, and Tailwind</li>
+        <br/>
+        <li>I'm dedicated to my work and I'm willing to work hard and disciplined  to contribute to the industry</li>
+        <br/>
+        <li>I'm open to collaborating on projects suited to my skill sets and working on creating new stuff and fixing existing problems </li>
+    </ul>
+</section>
+
+<br/><br/><br/><br/><br/>
+
 <h2 align="center">⚡ Stats ⚡</h2>
+
 <section>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadraKian&layout=donut&theme=cobalt" alt="Git Hub TopLangs" />
