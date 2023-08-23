@@ -41,6 +41,19 @@
 <br/>
 <hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<section>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadraKian&layout=donut&theme=cobalt" alt="Git Hub TopLangs" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=SadraKian&rank_icon=github&theme=dracula" alt="Git Hub TopLangs" />
+
+</section>
+
+
+<br/><br/><br/>
+
 <section>
     <img align="left" src="https://github.com/SadraKian/SadraKian/assets/128605953/5395ee7c-87c8-4fdf-a229-40a7749b56e9" width="400" height="400" />
     <ul align="right">
@@ -56,18 +69,6 @@
         <br/>
         <li>I'm open to collaborating on projects suited to my skill sets and working on creating new stuff and fixing existing problems </li>
     </ul>
-</section>
-
-<br/><br/><br/><br/><br/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<section>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadraKian&layout=donut&theme=cobalt" alt="Git Hub TopLangs" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=SadraKian&rank_icon=github&theme=dracula" alt="Git Hub TopLangs" />
-
 </section>
 
 <hr/>
