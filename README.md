@@ -72,8 +72,8 @@
         <li>I'm open to collaborating on projects suited to my skill sets and working on creating new stuff and fixing existing problems </li>
     </ul>
 </section>
-<br/>
-<br/><br/><br/>
+<br/><br/><br/><br/>
+
 <hr/>
 
 <h3 align="center">
