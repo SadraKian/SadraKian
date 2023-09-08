@@ -53,10 +53,8 @@
 <br/><br/>
 <hr/>
 <br/><br/>
-
-<section>
-    <img align="left" src="https://github.com/SadraKian/SadraKian/assets/128605953/5395ee7c-87c8-4fdf-a229-40a7749b56e9" width="400" height="400" />
-    &nbsp;&nbsp;
+    <img align="center" src="https://github.com/SadraKian/SadraKian/assets/128605953/5395ee7c-87c8-4fdf-a229-40a7749b56e9" width="450" height="450" />
+    <br/><br/>
     <ul align="right">
         <li>Software engineer</li>
         <br/>
@@ -72,7 +70,6 @@
         <br/>
         <li>I'm open to collaborating on projects suited to my skill sets and working on creating new stuff and fixing existing problems </li>
     </ul>
-</section>
 <br/><br/><br/><br/><br/><br/>
 
 <hr/>
