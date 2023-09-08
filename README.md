@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SadraKian.SadraKian" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=🌍+Hello+World!;+I'm+Mohammad+Sadra+Kiantash;" />
 </h1>
@@ -58,6 +56,7 @@
 
 <section>
     <img align="left" src="https://github.com/SadraKian/SadraKian/assets/128605953/5395ee7c-87c8-4fdf-a229-40a7749b56e9" width="400" height="400" />
+    &nbsp;&nbsp;
     <ul align="right">
         <li>Software engineer</li>
         <br/>
