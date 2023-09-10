@@ -45,7 +45,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadraKian&layout=donut&theme=cobalt" alt="Git Hub TopLangs" />
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=SadraKian&rank_icon=github&theme=dracula" alt="Git Hub TopLangs" />
 
 </section>
 
